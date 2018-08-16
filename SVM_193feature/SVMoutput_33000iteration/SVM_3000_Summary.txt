@@ -1,0 +1,113 @@
+SVM parameter: max iteration = 3000
+
+Test Fold 1:
+Avg Accuracy for C =  1  :
+         0.372279495991   18.6139747995 / 50
+Avg Accuracy for C =  0.1  :
+         0.395189003436   19.7594501718 / 50
+Avg Accuracy for C =  0.01  :
+         0.506300114548   25.3150057274 / 50
+Avg Accuracy for C =  0.001  :
+         0.524627720504   26.2313860252 / 50
+
+
+Test Fold 2:
+Avg Accuracy for C =  1  :
+         0.418918918919   20.9459459459 / 50
+Avg Accuracy for C =  0.1  :
+         0.433558558559   21.6779279279 / 50
+Avg Accuracy for C =  0.01  :
+         0.447072072072   22.3536036036 / 50
+Avg Accuracy for C =  0.001  :
+         0.461711711712   23.0855855856 / 50
+
+Test Fold 3:
+
+
+Test Fold 4:
+Avg Accuracy for C =  1  :				
+         0.366666666667   18.3333333333 / 50		
+Avg Accuracy for C =  0.1  :
+         0.442424242424   22.1212121212 / 50
+Avg Accuracy for C =  0.01  :
+         0.614141414141   30.7070707071 / 50
+Avg Accuracy for C =  0.001  :
+         0.623232323232   31.1616161616 / 50
+
+Avg Accuracy for C =  1  :
+         0.522222222222   26.1111111111 / 50
+Avg Accuracy for C =  0.1  :
+         0.551515151515   27.5757575758 / 50
+Avg Accuracy for C =  0.01  :
+         0.594949494949   29.7474747475 / 50
+Avg Accuracy for C =  0.001  :
+         0.628282828283   31.4141414141 / 50
+
+
+Test Fold 5:
+Avg Accuracy for C =  1  :
+         0.444444444444   22.2222222222 / 50
+Avg Accuracy for C =  0.1  :
+         0.53311965812   26.655982906 / 50
+Avg Accuracy for C =  0.01  :
+         0.614316239316   30.7158119658 / 50
+Avg Accuracy for C =  0.001  :
+         0.635683760684   31.7841880342 / 50
+
+
+Test Fold 6:
+Avg Accuracy for C =  1  :
+         0.471445929526   23.5722964763 / 50
+Avg Accuracy for C =  0.1  :
+         0.439854191981   21.992709599 / 50
+Avg Accuracy for C =  0.01  :
+         0.472660996355   23.6330498177 / 50
+Avg Accuracy for C =  0.001  :
+         0.488456865128   24.4228432564 / 50
+
+
+Test Fold 7:
+Avg Accuracy for C =  1  :
+         0.360381861575   18.0190930788 / 50
+Avg Accuracy for C =  0.1  :
+         0.515513126492   25.7756563246 / 50
+Avg Accuracy for C =  0.01  :
+         0.59307875895   29.6539379475 / 50
+Avg Accuracy for C =  0.001  :
+         0.613365155131   30.6682577566 / 50
+
+
+Test Fold 8:
+Avg Accuracy for C =  1  :
+         0.504962779156   25.2481389578 / 50
+Avg Accuracy for C =  0.1  :
+         0.450372208437   22.5186104218 / 50
+Avg Accuracy for C =  0.01  :
+         0.549627791563   27.4813895782 / 50
+Avg Accuracy for C =  0.001  :
+         0.589330024814   29.4665012407 / 50
+
+
+Test Fold 9:
+
+
+Test Fold 10:
+Avg Accuracy for C =  1  :
+         0.4743130227   23.715651135 / 50
+Avg Accuracy for C =  0.1  :
+         0.506571087216   25.3285543608 / 50
+Avg Accuracy for C =  0.01  :
+         0.616487455197   30.8243727599 / 50
+Avg Accuracy for C =  0.001  :
+         0.610513739546   30.5256869773 / 50
+
+
+Avg Accuracy for C =  1  :
+         0.47550776583   23.7753882915 / 50
+Avg Accuracy for C =  0.1  :
+         0.456391875747   22.8195937873 / 50
+Avg Accuracy for C =  0.01  :
+         0.622461170848   31.1230585424 / 50
+Avg Accuracy for C =  0.001  :
+         0.612903225806   30.6451612903 / 50
+
