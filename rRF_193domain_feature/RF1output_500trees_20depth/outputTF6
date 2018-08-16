@@ -1,0 +1,1302 @@
+Running  1  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 03:29:57
+forest model fit end:  2018-04-14 03:35:37
+forest model predict start:  2018-04-14 03:35:37
+forest model predict end:  2018-04-14 03:35:39
+accuracy:  0.535844471446   441 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.08      0.07      0.07       100
+          2       0.76      0.46      0.58        28
+          3       0.56      0.66      0.61       100
+          4       0.81      0.55      0.65       100
+          5       0.73      0.73      0.73       100
+          6       0.54      0.26      0.35       107
+          7       0.89      0.72      0.80        46
+          8       0.44      0.71      0.55        68
+          9       0.72      0.64      0.68        74
+         10       0.42      0.71      0.52       100
+
+avg / total       0.56      0.54      0.53       823
+
+============================================
+Running  2  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 03:35:39
+forest model fit end:  2018-04-14 03:41:20
+forest model predict start:  2018-04-14 03:41:20
+forest model predict end:  2018-04-14 03:41:22
+accuracy:  0.547995139733   451 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.12      0.11      0.12       100
+          2       0.78      0.50      0.61        28
+          3       0.57      0.66      0.61       100
+          4       0.82      0.56      0.67       100
+          5       0.69      0.76      0.72       100
+          6       0.55      0.27      0.36       107
+          7       0.87      0.72      0.79        46
+          8       0.46      0.69      0.55        68
+          9       0.77      0.65      0.71        74
+         10       0.43      0.71      0.53       100
+
+avg / total       0.57      0.55      0.54       823
+
+============================================
+Running  3  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 03:41:22
+forest model fit end:  2018-04-14 03:47:13
+forest model predict start:  2018-04-14 03:47:13
+forest model predict end:  2018-04-14 03:47:14
+accuracy:  0.527339003645   434 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.05      0.04      0.04       100
+          2       0.75      0.43      0.55        28
+          3       0.58      0.64      0.61       100
+          4       0.82      0.58      0.68       100
+          5       0.70      0.70      0.70       100
+          6       0.54      0.26      0.35       107
+          7       0.85      0.72      0.78        46
+          8       0.46      0.71      0.56        68
+          9       0.72      0.64      0.68        74
+         10       0.40      0.70      0.51       100
+
+avg / total       0.55      0.53      0.52       823
+
+============================================
+Running  4  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 03:47:15
+forest model fit end:  2018-04-14 03:52:50
+forest model predict start:  2018-04-14 03:52:50
+forest model predict end:  2018-04-14 03:52:52
+accuracy:  0.529769137303   436 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.11      0.10      0.10       100
+          2       0.76      0.46      0.58        28
+          3       0.54      0.62      0.58       100
+          4       0.84      0.53      0.65       100
+          5       0.70      0.74      0.72       100
+          6       0.49      0.23      0.32       107
+          7       0.89      0.72      0.80        46
+          8       0.45      0.71      0.55        68
+          9       0.68      0.64      0.66        74
+         10       0.43      0.71      0.54       100
+
+avg / total       0.56      0.53      0.52       823
+
+============================================
+Running  5  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 03:52:52
+forest model fit end:  2018-04-14 03:58:33
+forest model predict start:  2018-04-14 03:58:33
+forest model predict end:  2018-04-14 03:58:35
+accuracy:  0.539489671932   444 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.07      0.06      0.06       100
+          2       0.79      0.54      0.64        28
+          3       0.56      0.65      0.60       100
+          4       0.84      0.57      0.68       100
+          5       0.71      0.75      0.73       100
+          6       0.53      0.26      0.35       107
+          7       0.85      0.72      0.78        46
+          8       0.47      0.71      0.56        68
+          9       0.72      0.62      0.67        74
+         10       0.42      0.71      0.53       100
+
+avg / total       0.56      0.54      0.53       823
+
+============================================
+Running  6  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 03:58:35
+forest model fit end:  2018-04-14 04:04:14
+forest model predict start:  2018-04-14 04:04:14
+forest model predict end:  2018-04-14 04:04:15
+accuracy:  0.53219927096   438 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.03      0.03      0.03       100
+          2       0.78      0.50      0.61        28
+          3       0.57      0.65      0.60       100
+          4       0.85      0.55      0.67       100
+          5       0.72      0.75      0.74       100
+          6       0.54      0.26      0.35       107
+          7       0.80      0.72      0.76        46
+          8       0.47      0.71      0.56        68
+          9       0.72      0.64      0.68        74
+         10       0.40      0.70      0.51       100
+
+avg / total       0.56      0.53      0.53       823
+
+============================================
+Running  7  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 04:04:16
+forest model fit end:  2018-04-14 04:09:59
+forest model predict start:  2018-04-14 04:09:59
+forest model predict end:  2018-04-14 04:10:00
+accuracy:  0.538274605103   443 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.12      0.11      0.11       100
+          2       0.79      0.54      0.64        28
+          3       0.56      0.62      0.59       100
+          4       0.86      0.57      0.69       100
+          5       0.71      0.76      0.73       100
+          6       0.50      0.24      0.33       107
+          7       0.87      0.72      0.79        46
+          8       0.46      0.69      0.55        68
+          9       0.69      0.61      0.65        74
+         10       0.42      0.71      0.53       100
+
+avg / total       0.57      0.54      0.53       823
+
+============================================
+Running  8  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 04:10:00
+forest model fit end:  2018-04-14 04:15:49
+forest model predict start:  2018-04-14 04:15:49
+forest model predict end:  2018-04-14 04:15:51
+accuracy:  0.547995139733   451 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.13      0.12      0.12       100
+          2       0.80      0.57      0.67        28
+          3       0.59      0.66      0.62       100
+          4       0.85      0.57      0.68       100
+          5       0.72      0.74      0.73       100
+          6       0.52      0.25      0.34       107
+          7       0.82      0.72      0.77        46
+          8       0.45      0.71      0.55        68
+          9       0.72      0.64      0.68        74
+         10       0.44      0.71      0.54       100
+
+avg / total       0.57      0.55      0.54       823
+
+============================================
+Running  9  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 04:15:51
+forest model fit end:  2018-04-14 04:21:32
+forest model predict start:  2018-04-14 04:21:32
+forest model predict end:  2018-04-14 04:21:33
+accuracy:  0.527339003645   434 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.08      0.07      0.07       100
+          2       0.83      0.54      0.65        28
+          3       0.54      0.61      0.58       100
+          4       0.83      0.54      0.65       100
+          5       0.71      0.76      0.73       100
+          6       0.49      0.22      0.31       107
+          7       0.89      0.72      0.80        46
+          8       0.46      0.71      0.56        68
+          9       0.70      0.64      0.67        74
+         10       0.40      0.69      0.50       100
+
+avg / total       0.55      0.53      0.52       823
+
+============================================
+Running  10  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 04:21:34
+forest model fit end:  2018-04-14 04:27:16
+forest model predict start:  2018-04-14 04:27:16
+forest model predict end:  2018-04-14 04:27:18
+accuracy:  0.530984204131   437 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.05      0.04      0.04       100
+          2       0.76      0.46      0.58        28
+          3       0.58      0.65      0.61       100
+          4       0.85      0.55      0.67       100
+          5       0.67      0.74      0.70       100
+          6       0.52      0.27      0.36       107
+          7       0.89      0.72      0.80        46
+          8       0.46      0.69      0.55        68
+          9       0.71      0.62      0.66        74
+         10       0.41      0.71      0.52       100
+
+avg / total       0.55      0.53      0.52       823
+
+============================================
+Running  11  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 04:27:18
+forest model fit end:  2018-04-14 04:32:59
+forest model predict start:  2018-04-14 04:32:59
+forest model predict end:  2018-04-14 04:33:01
+accuracy:  0.539489671932   444 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.13      0.12      0.12       100
+          2       0.75      0.54      0.63        28
+          3       0.58      0.63      0.61       100
+          4       0.86      0.55      0.67       100
+          5       0.70      0.76      0.73       100
+          6       0.51      0.23      0.32       107
+          7       0.89      0.72      0.80        46
+          8       0.46      0.71      0.55        68
+          9       0.74      0.62      0.68        74
+         10       0.41      0.71      0.52       100
+
+avg / total       0.57      0.54      0.54       823
+
+============================================
+Running  12  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 04:33:01
+forest model fit end:  2018-04-14 04:38:51
+forest model predict start:  2018-04-14 04:38:51
+forest model predict end:  2018-04-14 04:38:53
+accuracy:  0.53219927096   438 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.06      0.05      0.06       100
+          2       0.79      0.54      0.64        28
+          3       0.54      0.63      0.58       100
+          4       0.86      0.56      0.68       100
+          5       0.71      0.75      0.73       100
+          6       0.47      0.24      0.32       107
+          7       0.89      0.72      0.80        46
+          8       0.47      0.71      0.56        68
+          9       0.76      0.64      0.69        74
+         10       0.39      0.70      0.50       100
+
+avg / total       0.56      0.53      0.53       823
+
+============================================
+Running  13  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 04:38:53
+forest model fit end:  2018-04-14 04:44:44
+forest model predict start:  2018-04-14 04:44:44
+forest model predict end:  2018-04-14 04:44:46
+accuracy:  0.545565006075   449 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.13      0.12      0.12       100
+          2       0.78      0.50      0.61        28
+          3       0.59      0.66      0.62       100
+          4       0.85      0.56      0.67       100
+          5       0.70      0.74      0.72       100
+          6       0.52      0.24      0.33       107
+          7       0.85      0.72      0.78        46
+          8       0.46      0.72      0.56        68
+          9       0.72      0.62      0.67        74
+         10       0.43      0.73      0.54       100
+
+avg / total       0.57      0.55      0.54       823
+
+============================================
+Running  14  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 04:44:46
+forest model fit end:  2018-04-14 04:50:28
+forest model predict start:  2018-04-14 04:50:28
+forest model predict end:  2018-04-14 04:50:30
+accuracy:  0.535844471446   441 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.14      0.13      0.13       100
+          2       0.75      0.43      0.55        28
+          3       0.56      0.64      0.60       100
+          4       0.84      0.54      0.66       100
+          5       0.72      0.74      0.73       100
+          6       0.47      0.24      0.32       107
+          7       0.89      0.72      0.80        46
+          8       0.45      0.71      0.55        68
+          9       0.71      0.64      0.67        74
+         10       0.42      0.70      0.53       100
+
+avg / total       0.56      0.54      0.53       823
+
+============================================
+Running  15  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 04:50:31
+forest model fit end:  2018-04-14 04:56:15
+forest model predict start:  2018-04-14 04:56:15
+forest model predict end:  2018-04-14 04:56:17
+accuracy:  0.535844471446   441 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.10      0.09      0.09       100
+          2       0.76      0.46      0.58        28
+          3       0.57      0.65      0.61       100
+          4       0.82      0.56      0.67       100
+          5       0.72      0.73      0.72       100
+          6       0.49      0.24      0.32       107
+          7       0.89      0.72      0.80        46
+          8       0.46      0.71      0.55        68
+          9       0.77      0.64      0.70        74
+         10       0.41      0.71      0.52       100
+
+avg / total       0.56      0.54      0.53       823
+
+============================================
+Running  16  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 04:56:17
+forest model fit end:  2018-04-14 05:01:58
+forest model predict start:  2018-04-14 05:01:58
+forest model predict end:  2018-04-14 05:02:00
+accuracy:  0.538274605103   443 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.12      0.11      0.12       100
+          2       0.76      0.46      0.58        28
+          3       0.57      0.66      0.61       100
+          4       0.84      0.54      0.66       100
+          5       0.71      0.75      0.73       100
+          6       0.49      0.24      0.32       107
+          7       0.89      0.72      0.80        46
+          8       0.47      0.71      0.56        68
+          9       0.71      0.64      0.67        74
+         10       0.40      0.70      0.51       100
+
+avg / total       0.57      0.54      0.53       823
+
+============================================
+Running  17  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 05:02:00
+forest model fit end:  2018-04-14 05:07:47
+forest model predict start:  2018-04-14 05:07:47
+forest model predict end:  2018-04-14 05:07:48
+accuracy:  0.541919805589   446 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.13      0.11      0.12       100
+          2       0.78      0.50      0.61        28
+          3       0.56      0.64      0.60       100
+          4       0.87      0.58      0.69       100
+          5       0.72      0.75      0.74       100
+          6       0.50      0.25      0.34       107
+          7       0.89      0.72      0.80        46
+          8       0.44      0.69      0.54        68
+          9       0.73      0.64      0.68        74
+         10       0.41      0.70      0.52       100
+
+avg / total       0.57      0.54      0.54       823
+
+============================================
+Running  18  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 05:07:48
+forest model fit end:  2018-04-14 05:13:37
+forest model predict start:  2018-04-14 05:13:37
+forest model predict end:  2018-04-14 05:13:39
+accuracy:  0.52247873633   430 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.08      0.07      0.07       100
+          2       0.76      0.46      0.58        28
+          3       0.54      0.60      0.57       100
+          4       0.79      0.54      0.64       100
+          5       0.69      0.72      0.70       100
+          6       0.50      0.24      0.33       107
+          7       0.89      0.72      0.80        46
+          8       0.46      0.71      0.56        68
+          9       0.73      0.64      0.68        74
+         10       0.39      0.70      0.50       100
+
+avg / total       0.55      0.52      0.52       823
+
+============================================
+Running  19  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 05:13:39
+forest model fit end:  2018-04-14 05:19:23
+forest model predict start:  2018-04-14 05:19:23
+forest model predict end:  2018-04-14 05:19:24
+accuracy:  0.529769137303   436 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.05      0.04      0.04       100
+          2       0.76      0.57      0.65        28
+          3       0.57      0.65      0.60       100
+          4       0.82      0.55      0.66       100
+          5       0.72      0.74      0.73       100
+          6       0.45      0.22      0.30       107
+          7       0.85      0.72      0.78        46
+          8       0.46      0.71      0.56        68
+          9       0.76      0.64      0.69        74
+         10       0.41      0.70      0.52       100
+
+avg / total       0.55      0.53      0.52       823
+
+============================================
+Running  20  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 05:19:25
+forest model fit end:  2018-04-14 05:25:12
+forest model predict start:  2018-04-14 05:25:12
+forest model predict end:  2018-04-14 05:25:14
+accuracy:  0.538274605103   443 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.11      0.10      0.10       100
+          2       0.78      0.50      0.61        28
+          3       0.58      0.66      0.62       100
+          4       0.83      0.55      0.66       100
+          5       0.71      0.74      0.73       100
+          6       0.50      0.24      0.33       107
+          7       0.87      0.72      0.79        46
+          8       0.46      0.71      0.56        68
+          9       0.73      0.62      0.67        74
+         10       0.42      0.71      0.53       100
+
+avg / total       0.57      0.54      0.53       823
+
+============================================
+Running  21  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 05:25:14
+forest model fit end:  2018-04-14 05:30:56
+forest model predict start:  2018-04-14 05:30:56
+forest model predict end:  2018-04-14 05:30:58
+accuracy:  0.526123936817   433 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.06      0.05      0.05       100
+          2       0.81      0.46      0.59        28
+          3       0.53      0.63      0.58       100
+          4       0.84      0.56      0.67       100
+          5       0.69      0.73      0.71       100
+          6       0.49      0.24      0.32       107
+          7       0.89      0.72      0.80        46
+          8       0.44      0.69      0.54        68
+          9       0.73      0.64      0.68        74
+         10       0.41      0.70      0.51       100
+
+avg / total       0.55      0.53      0.52       823
+
+============================================
+Running  22  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 05:30:58
+forest model fit end:  2018-04-14 05:36:55
+forest model predict start:  2018-04-14 05:36:55
+forest model predict end:  2018-04-14 05:36:57
+accuracy:  0.528554070474   435 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.06      0.05      0.06       100
+          2       0.76      0.46      0.58        28
+          3       0.55      0.66      0.60       100
+          4       0.83      0.54      0.65       100
+          5       0.71      0.72      0.71       100
+          6       0.48      0.24      0.32       107
+          7       0.87      0.72      0.79        46
+          8       0.45      0.72      0.55        68
+          9       0.71      0.64      0.67        74
+         10       0.41      0.70      0.52       100
+
+avg / total       0.55      0.53      0.52       823
+
+============================================
+Running  23  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 05:36:57
+forest model fit end:  2018-04-14 05:42:26
+forest model predict start:  2018-04-14 05:42:26
+forest model predict end:  2018-04-14 05:42:28
+accuracy:  0.538274605103   443 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.12      0.12      0.12       100
+          2       0.78      0.50      0.61        28
+          3       0.56      0.62      0.59       100
+          4       0.82      0.56      0.67       100
+          5       0.72      0.74      0.73       100
+          6       0.46      0.24      0.32       107
+          7       0.89      0.72      0.80        46
+          8       0.47      0.71      0.56        68
+          9       0.75      0.64      0.69        74
+         10       0.42      0.71      0.53       100
+
+avg / total       0.56      0.54      0.53       823
+
+============================================
+Running  24  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 05:42:28
+forest model fit end:  2018-04-14 05:48:07
+forest model predict start:  2018-04-14 05:48:07
+forest model predict end:  2018-04-14 05:48:08
+accuracy:  0.527339003645   434 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.05      0.04      0.04       100
+          2       0.73      0.39      0.51        28
+          3       0.57      0.65      0.61       100
+          4       0.87      0.54      0.67       100
+          5       0.68      0.76      0.72       100
+          6       0.49      0.24      0.32       107
+          7       0.87      0.72      0.79        46
+          8       0.47      0.69      0.56        68
+          9       0.72      0.64      0.68        74
+         10       0.40      0.71      0.51       100
+
+avg / total       0.55      0.53      0.52       823
+
+============================================
+Running  25  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 05:48:09
+forest model fit end:  2018-04-14 05:53:36
+forest model predict start:  2018-04-14 05:53:36
+forest model predict end:  2018-04-14 05:53:38
+accuracy:  0.535844471446   441 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.14      0.13      0.13       100
+          2       0.76      0.46      0.58        28
+          3       0.54      0.64      0.59       100
+          4       0.84      0.56      0.67       100
+          5       0.68      0.73      0.70       100
+          6       0.47      0.23      0.31       107
+          7       0.89      0.72      0.80        46
+          8       0.45      0.68      0.54        68
+          9       0.70      0.64      0.67        74
+         10       0.44      0.71      0.55       100
+
+avg / total       0.56      0.54      0.53       823
+
+============================================
+Running  26  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 05:53:38
+forest model fit end:  2018-04-14 05:59:23
+forest model predict start:  2018-04-14 05:59:23
+forest model predict end:  2018-04-14 05:59:25
+accuracy:  0.53219927096   438 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.06      0.05      0.05       100
+          2       0.74      0.50      0.60        28
+          3       0.57      0.64      0.60       100
+          4       0.83      0.55      0.66       100
+          5       0.70      0.73      0.72       100
+          6       0.52      0.27      0.36       107
+          7       0.89      0.72      0.80        46
+          8       0.47      0.72      0.57        68
+          9       0.73      0.62      0.67        74
+         10       0.40      0.70      0.51       100
+
+avg / total       0.56      0.53      0.53       823
+
+============================================
+Running  27  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 05:59:25
+forest model fit end:  2018-04-14 06:05:05
+forest model predict start:  2018-04-14 06:05:05
+forest model predict end:  2018-04-14 06:05:06
+accuracy:  0.534629404617   440 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.08      0.07      0.08       100
+          2       0.76      0.46      0.58        28
+          3       0.58      0.66      0.62       100
+          4       0.85      0.56      0.67       100
+          5       0.72      0.73      0.73       100
+          6       0.50      0.26      0.34       107
+          7       0.87      0.72      0.79        46
+          8       0.43      0.69      0.53        68
+          9       0.71      0.62      0.66        74
+         10       0.42      0.71      0.53       100
+
+avg / total       0.56      0.53      0.53       823
+
+============================================
+Running  28  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 06:05:07
+forest model fit end:  2018-04-14 06:10:55
+forest model predict start:  2018-04-14 06:10:55
+forest model predict end:  2018-04-14 06:10:57
+accuracy:  0.524908869988   432 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.06      0.05      0.05       100
+          2       0.79      0.54      0.64        28
+          3       0.56      0.63      0.59       100
+          4       0.80      0.57      0.67       100
+          5       0.69      0.71      0.70       100
+          6       0.46      0.22      0.30       107
+          7       0.89      0.72      0.80        46
+          8       0.46      0.72      0.56        68
+          9       0.70      0.62      0.66        74
+         10       0.41      0.69      0.51       100
+
+avg / total       0.54      0.52      0.52       823
+
+============================================
+Running  29  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 06:10:57
+forest model fit end:  2018-04-14 06:16:41
+forest model predict start:  2018-04-14 06:16:41
+forest model predict end:  2018-04-14 06:16:43
+accuracy:  0.539489671932   444 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.13      0.12      0.13       100
+          2       0.75      0.43      0.55        28
+          3       0.55      0.65      0.60       100
+          4       0.88      0.56      0.68       100
+          5       0.69      0.75      0.72       100
+          6       0.48      0.23      0.31       107
+          7       0.89      0.72      0.80        46
+          8       0.47      0.71      0.56        68
+          9       0.74      0.62      0.68        74
+         10       0.42      0.72      0.53       100
+
+avg / total       0.57      0.54      0.53       823
+
+============================================
+Running  30  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 06:16:43
+forest model fit end:  2018-04-14 06:22:26
+forest model predict start:  2018-04-14 06:22:26
+forest model predict end:  2018-04-14 06:22:28
+accuracy:  0.533414337789   439 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.08      0.07      0.07       100
+          2       0.76      0.46      0.58        28
+          3       0.57      0.64      0.60       100
+          4       0.82      0.54      0.65       100
+          5       0.68      0.76      0.72       100
+          6       0.52      0.24      0.33       107
+          7       0.89      0.72      0.80        46
+          8       0.47      0.71      0.56        68
+          9       0.74      0.62      0.68        74
+         10       0.42      0.72      0.53       100
+
+avg / total       0.56      0.53      0.53       823
+
+============================================
+Running  31  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 06:22:28
+forest model fit end:  2018-04-14 06:28:21
+forest model predict start:  2018-04-14 06:28:21
+forest model predict end:  2018-04-14 06:28:23
+accuracy:  0.538274605103   443 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.11      0.10      0.10       100
+          2       0.78      0.50      0.61        28
+          3       0.58      0.64      0.61       100
+          4       0.85      0.55      0.67       100
+          5       0.69      0.75      0.72       100
+          6       0.45      0.23      0.31       107
+          7       0.89      0.72      0.80        46
+          8       0.47      0.72      0.57        68
+          9       0.72      0.64      0.68        74
+         10       0.43      0.71      0.53       100
+
+avg / total       0.56      0.54      0.53       823
+
+============================================
+Running  32  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 06:28:23
+forest model fit end:  2018-04-14 06:34:14
+forest model predict start:  2018-04-14 06:34:14
+forest model predict end:  2018-04-14 06:34:15
+accuracy:  0.535844471446   441 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.08      0.07      0.08       100
+          2       0.80      0.57      0.67        28
+          3       0.56      0.63      0.59       100
+          4       0.81      0.56      0.66       100
+          5       0.70      0.73      0.71       100
+          6       0.50      0.25      0.34       107
+          7       0.89      0.72      0.80        46
+          8       0.47      0.69      0.56        68
+          9       0.75      0.64      0.69        74
+         10       0.41      0.72      0.52       100
+
+avg / total       0.56      0.54      0.53       823
+
+============================================
+Running  33  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 06:34:16
+forest model fit end:  2018-04-14 06:40:04
+forest model predict start:  2018-04-14 06:40:04
+forest model predict end:  2018-04-14 06:40:06
+accuracy:  0.528554070474   435 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.04      0.04      0.04       100
+          2       0.69      0.32      0.44        28
+          3       0.58      0.65      0.61       100
+          4       0.85      0.56      0.67       100
+          5       0.72      0.74      0.73       100
+          6       0.50      0.25      0.34       107
+          7       0.89      0.72      0.80        46
+          8       0.46      0.72      0.56        68
+          9       0.68      0.64      0.66        74
+         10       0.41      0.71      0.52       100
+
+avg / total       0.55      0.53      0.52       823
+
+============================================
+Running  34  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 06:40:06
+forest model fit end:  2018-04-14 06:46:00
+forest model predict start:  2018-04-14 06:46:00
+forest model predict end:  2018-04-14 06:46:02
+accuracy:  0.533414337789   439 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.11      0.10      0.10       100
+          2       0.76      0.46      0.58        28
+          3       0.55      0.63      0.59       100
+          4       0.83      0.55      0.66       100
+          5       0.70      0.74      0.72       100
+          6       0.50      0.23      0.32       107
+          7       0.87      0.72      0.79        46
+          8       0.46      0.71      0.56        68
+          9       0.72      0.64      0.68        74
+         10       0.43      0.71      0.53       100
+
+avg / total       0.56      0.53      0.53       823
+
+============================================
+Running  35  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 06:46:02
+forest model fit end:  2018-04-14 06:51:45
+forest model predict start:  2018-04-14 06:51:45
+forest model predict end:  2018-04-14 06:51:46
+accuracy:  0.543134872418   447 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.14      0.13      0.13       100
+          2       0.76      0.46      0.58        28
+          3       0.58      0.66      0.62       100
+          4       0.89      0.55      0.68       100
+          5       0.68      0.75      0.71       100
+          6       0.52      0.25      0.34       107
+          7       0.89      0.72      0.80        46
+          8       0.47      0.71      0.56        68
+          9       0.68      0.62      0.65        74
+         10       0.42      0.71      0.53       100
+
+avg / total       0.57      0.54      0.54       823
+
+============================================
+Running  36  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 06:51:46
+forest model fit end:  2018-04-14 06:57:31
+forest model predict start:  2018-04-14 06:57:31
+forest model predict end:  2018-04-14 06:57:33
+accuracy:  0.543134872418   447 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.10      0.10      0.10       100
+          2       0.77      0.61      0.68        28
+          3       0.58      0.65      0.61       100
+          4       0.86      0.54      0.66       100
+          5       0.71      0.77      0.74       100
+          6       0.50      0.23      0.32       107
+          7       0.89      0.72      0.80        46
+          8       0.46      0.71      0.56        68
+          9       0.71      0.64      0.67        74
+         10       0.44      0.71      0.54       100
+
+avg / total       0.57      0.54      0.54       823
+
+============================================
+Running  37  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 06:57:33
+forest model fit end:  2018-04-14 07:03:17
+forest model predict start:  2018-04-14 07:03:17
+forest model predict end:  2018-04-14 07:03:19
+accuracy:  0.540704738761   445 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.14      0.13      0.14       100
+          2       0.78      0.50      0.61        28
+          3       0.54      0.63      0.58       100
+          4       0.86      0.56      0.68       100
+          5       0.73      0.75      0.74       100
+          6       0.52      0.24      0.33       107
+          7       0.89      0.72      0.80        46
+          8       0.45      0.71      0.55        68
+          9       0.72      0.62      0.67        74
+         10       0.42      0.71      0.52       100
+
+avg / total       0.57      0.54      0.54       823
+
+============================================
+Running  38  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 07:03:19
+forest model fit end:  2018-04-14 07:08:57
+forest model predict start:  2018-04-14 07:08:57
+forest model predict end:  2018-04-14 07:08:59
+accuracy:  0.535844471446   441 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.11      0.10      0.10       100
+          2       0.78      0.50      0.61        28
+          3       0.57      0.64      0.60       100
+          4       0.83      0.54      0.65       100
+          5       0.71      0.74      0.73       100
+          6       0.53      0.24      0.33       107
+          7       0.82      0.72      0.77        46
+          8       0.46      0.71      0.56        68
+          9       0.72      0.62      0.67        74
+         10       0.42      0.72      0.53       100
+
+avg / total       0.56      0.54      0.53       823
+
+============================================
+Running  39  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 07:08:59
+forest model fit end:  2018-04-14 07:14:34
+forest model predict start:  2018-04-14 07:14:34
+forest model predict end:  2018-04-14 07:14:35
+accuracy:  0.53219927096   438 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.13      0.12      0.12       100
+          2       0.73      0.39      0.51        28
+          3       0.57      0.63      0.60       100
+          4       0.84      0.56      0.67       100
+          5       0.66      0.71      0.69       100
+          6       0.56      0.26      0.36       107
+          7       0.82      0.72      0.77        46
+          8       0.47      0.71      0.56        68
+          9       0.72      0.62      0.67        74
+         10       0.40      0.70      0.51       100
+
+avg / total       0.56      0.53      0.53       823
+
+============================================
+Running  40  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 07:14:36
+forest model fit end:  2018-04-14 07:20:11
+forest model predict start:  2018-04-14 07:20:11
+forest model predict end:  2018-04-14 07:20:13
+accuracy:  0.534629404617   440 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.12      0.11      0.11       100
+          2       0.76      0.46      0.58        28
+          3       0.55      0.62      0.58       100
+          4       0.83      0.54      0.65       100
+          5       0.69      0.75      0.72       100
+          6       0.51      0.26      0.35       107
+          7       0.87      0.72      0.79        46
+          8       0.47      0.71      0.56        68
+          9       0.72      0.62      0.67        74
+         10       0.41      0.70      0.52       100
+
+avg / total       0.56      0.53      0.53       823
+
+============================================
+Running  41  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 07:20:13
+forest model fit end:  2018-04-14 07:25:54
+forest model predict start:  2018-04-14 07:25:54
+forest model predict end:  2018-04-14 07:25:55
+accuracy:  0.538274605103   443 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.08      0.07      0.07       100
+          2       0.78      0.50      0.61        28
+          3       0.57      0.64      0.60       100
+          4       0.84      0.56      0.67       100
+          5       0.70      0.75      0.72       100
+          6       0.51      0.26      0.35       107
+          7       0.89      0.72      0.80        46
+          8       0.45      0.71      0.55        68
+          9       0.75      0.64      0.69        74
+         10       0.42      0.71      0.53       100
+
+avg / total       0.56      0.54      0.53       823
+
+============================================
+Running  42  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 07:25:55
+forest model fit end:  2018-04-14 07:31:40
+forest model predict start:  2018-04-14 07:31:40
+forest model predict end:  2018-04-14 07:31:42
+accuracy:  0.538274605103   443 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.11      0.10      0.10       100
+          2       0.73      0.39      0.51        28
+          3       0.58      0.66      0.62       100
+          4       0.84      0.54      0.66       100
+          5       0.70      0.75      0.72       100
+          6       0.50      0.25      0.34       107
+          7       0.89      0.72      0.80        46
+          8       0.47      0.72      0.57        68
+          9       0.73      0.64      0.68        74
+         10       0.41      0.71      0.52       100
+
+avg / total       0.57      0.54      0.53       823
+
+============================================
+Running  43  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 07:31:42
+forest model fit end:  2018-04-14 07:37:31
+forest model predict start:  2018-04-14 07:37:31
+forest model predict end:  2018-04-14 07:37:33
+accuracy:  0.539489671932   444 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.12      0.11      0.11       100
+          2       0.78      0.50      0.61        28
+          3       0.57      0.65      0.60       100
+          4       0.84      0.58      0.69       100
+          5       0.70      0.73      0.71       100
+          6       0.50      0.24      0.33       107
+          7       0.87      0.72      0.79        46
+          8       0.46      0.71      0.55        68
+          9       0.68      0.64      0.66        74
+         10       0.44      0.69      0.53       100
+
+avg / total       0.56      0.54      0.53       823
+
+============================================
+Running  44  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 07:37:33
+forest model fit end:  2018-04-14 07:43:20
+forest model predict start:  2018-04-14 07:43:20
+forest model predict end:  2018-04-14 07:43:22
+accuracy:  0.527339003645   434 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.12      0.11      0.11       100
+          2       0.73      0.39      0.51        28
+          3       0.57      0.63      0.60       100
+          4       0.83      0.53      0.65       100
+          5       0.66      0.71      0.69       100
+          6       0.50      0.24      0.33       107
+          7       0.85      0.72      0.78        46
+          8       0.46      0.69      0.55        68
+          9       0.72      0.64      0.68        74
+         10       0.41      0.72      0.53       100
+
+avg / total       0.56      0.53      0.52       823
+
+============================================
+Running  45  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 07:43:22
+forest model fit end:  2018-04-14 07:48:56
+forest model predict start:  2018-04-14 07:48:56
+forest model predict end:  2018-04-14 07:48:58
+accuracy:  0.534629404617   440 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.09      0.08      0.08       100
+          2       0.79      0.54      0.64        28
+          3       0.57      0.65      0.60       100
+          4       0.83      0.55      0.66       100
+          5       0.69      0.73      0.71       100
+          6       0.50      0.22      0.31       107
+          7       0.82      0.72      0.77        46
+          8       0.47      0.71      0.56        68
+          9       0.70      0.64      0.67        74
+         10       0.43      0.72      0.54       100
+
+avg / total       0.56      0.53      0.53       823
+
+============================================
+Running  46  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 07:48:58
+forest model fit end:  2018-04-14 07:54:31
+forest model predict start:  2018-04-14 07:54:31
+forest model predict end:  2018-04-14 07:54:33
+accuracy:  0.53219927096   438 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.08      0.07      0.07       100
+          2       0.75      0.43      0.55        28
+          3       0.56      0.63      0.59       100
+          4       0.82      0.55      0.66       100
+          5       0.69      0.72      0.71       100
+          6       0.54      0.28      0.37       107
+          7       0.89      0.72      0.80        46
+          8       0.47      0.71      0.56        68
+          9       0.71      0.64      0.67        74
+         10       0.41      0.71      0.52       100
+
+avg / total       0.56      0.53      0.53       823
+
+============================================
+Running  47  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 07:54:33
+forest model fit end:  2018-04-14 08:00:15
+forest model predict start:  2018-04-14 08:00:15
+forest model predict end:  2018-04-14 08:00:17
+accuracy:  0.526123936817   433 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.08      0.07      0.07       100
+          2       0.69      0.32      0.44        28
+          3       0.55      0.64      0.59       100
+          4       0.89      0.54      0.67       100
+          5       0.71      0.75      0.73       100
+          6       0.49      0.23      0.32       107
+          7       0.87      0.72      0.79        46
+          8       0.46      0.71      0.55        68
+          9       0.73      0.62      0.67        74
+         10       0.40      0.72      0.52       100
+
+avg / total       0.56      0.53      0.52       823
+
+============================================
+Running  48  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 08:00:17
+forest model fit end:  2018-04-14 08:05:47
+forest model predict start:  2018-04-14 08:05:47
+forest model predict end:  2018-04-14 08:05:49
+accuracy:  0.535844471446   441 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.06      0.05      0.05       100
+          2       0.78      0.50      0.61        28
+          3       0.57      0.65      0.61       100
+          4       0.83      0.57      0.67       100
+          5       0.70      0.73      0.72       100
+          6       0.54      0.26      0.35       107
+          7       0.87      0.72      0.79        46
+          8       0.48      0.71      0.57        68
+          9       0.71      0.64      0.67        74
+         10       0.41      0.71      0.52       100
+
+avg / total       0.56      0.54      0.53       823
+
+============================================
+Running  49  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 08:05:49
+forest model fit end:  2018-04-14 08:11:16
+forest model predict start:  2018-04-14 08:11:16
+forest model predict end:  2018-04-14 08:11:18
+accuracy:  0.539489671932   444 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.11      0.10      0.11       100
+          2       0.75      0.43      0.55        28
+          3       0.56      0.64      0.60       100
+          4       0.83      0.54      0.65       100
+          5       0.71      0.75      0.73       100
+          6       0.55      0.30      0.39       107
+          7       0.89      0.72      0.80        46
+          8       0.44      0.69      0.54        68
+          9       0.73      0.62      0.67        74
+         10       0.42      0.71      0.53       100
+
+avg / total       0.57      0.54      0.54       823
+
+============================================
+Running  50  iteration.
+============================================
+Parameters: n_estimator =  500 , max_depth =  20 , min_samples_leaf =  30
+forest model fit start:  2018-04-14 08:11:18
+forest model fit end:  2018-04-14 08:16:53
+forest model predict start:  2018-04-14 08:16:53
+forest model predict end:  2018-04-14 08:16:55
+accuracy:  0.529769137303   436 / 823
+Testing folds:  [ 6.]
+Training folds:  [1, 2, 3, 4, 5, 7, 8, 9, 10]
+             precision    recall  f1-score   support
+
+          1       0.13      0.13      0.13       100
+          2       0.73      0.39      0.51        28
+          3       0.56      0.63      0.59       100
+          4       0.83      0.54      0.65       100
+          5       0.68      0.70      0.69       100
+          6       0.53      0.25      0.34       107
+          7       0.89      0.72      0.80        46
+          8       0.45      0.69      0.54        68
+          9       0.71      0.64      0.67        74
+         10       0.41      0.71      0.52       100
+
+avg / total       0.56      0.53      0.53       823
+
+============================================
+[0.5358444714459295, 0.54799513973268532, 0.52733900364520048, 0.5297691373025516, 0.53948967193195629, 0.53219927095990283, 0.53827460510328073, 0.54799513973268532, 0.52733900364520048, 0.53098420413122727, 0.53948967193195629, 0.53219927095990283, 0.54556500607533409, 0.5358444714459295, 0.5358444714459295, 0.53827460510328073, 0.54191980558930741, 0.52247873633049813, 0.5297691373025516, 0.53827460510328073, 0.52612393681652492, 0.52855407047387604, 0.53827460510328073, 0.52733900364520048, 0.5358444714459295, 0.53219927095990283, 0.53462940461725394, 0.52490886998784936, 0.53948967193195629, 0.53341433778857839, 0.53827460510328073, 0.5358444714459295, 0.52855407047387604, 0.53341433778857839, 0.54313487241798297, 0.54313487241798297, 0.54070473876063185, 0.5358444714459295, 0.53219927095990283, 0.53462940461725394, 0.53827460510328073, 0.53827460510328073, 0.53948967193195629, 0.52733900364520048, 0.53462940461725394, 0.53219927095990283, 0.52612393681652492, 0.5358444714459295, 0.53948967193195629, 0.5297691373025516]
+Avg accuracy:  0.53489671932

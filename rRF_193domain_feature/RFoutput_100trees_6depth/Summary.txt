@@ -1,0 +1,14 @@
+Avg accuracy of 50 runs on each of the test fold:
+
+Test Fold 1: Avg accuracy:  0.537159221077
+Test Fold 2: Avg accuracy:  
+Test Fold 3: Avg accuracy:  0.511718918919	0.510356756757
+Test Fold 4: Avg accuracy:  
+Test Fold 5: Avg accuracy:  0.558482905983	0.556538461538
+Test Fold 6: Avg accuracy:  0.50354799514
+Test Fold 7: Avg accuracy:  
+Test Fold 8: Avg accuracy:  0.635905707196	0.637642679901
+Test Fold 9: Avg accuracy:  
+Test Fold 10: Avg accuracy:  0.588936678614	0.588649940263
+
+So Test Fold 7 and 8 have about the highest accuracy 
