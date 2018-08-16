@@ -1,0 +1,244 @@
+VERSION=13
+# using model 6 and modifying it
+# increasing the training size to 80% validation 10% and test size: 10%
+#Made ropout 0.5
+
+
+VALIDATION_FOLD=1
+TRAIN_FOLD = [3,4,5,6,7,8,9,10]
+TESTING_FOLD = [2
+
+Epoch 16/20
+5978/5978 [==============================] - 217s 36ms/step - loss: 0.6905 - acc: 0.8277 - val_loss: 1.2907 - val_acc: 0.5828
+Epoch 17/20
+5978/5978 [==============================] - 216s 36ms/step - loss: 0.6551 - acc: 0.8441 - val_loss: 1.2760 - val_acc: 0.6212
+Epoch 18/20
+5978/5978 [==============================] - 221s 37ms/step - loss: 0.6063 - acc: 0.8628 - val_loss: 1.3120 - val_acc: 0.6026
+Epoch 19/20
+5978/5978 [==============================] - 221s 37ms/step - loss: 0.5763 - acc: 0.8779 - val_loss: 1.3495 - val_acc: 0.6040
+Epoch 20/20
+5978/5978 [==============================] - 217s 36ms/step - loss: 0.5579 - acc: 0.8792 - val_loss: 1.3859 - val_acc: 0.6066
+Time elapsed:  4286.330931663513
+End of CNN Model Fitting (Elapsed time) 01:11:26
+Model Saved! as model13_13validate_1.h5
+
+             precision    recall  f1-score   support
+
+          0       0.41      0.69      0.52        99
+          1       0.00      0.00      0.00        18
+          2       0.56      0.77      0.65        99
+          3       0.76      0.84      0.80        64
+          4       0.88      0.60      0.71        72
+          5       0.39      0.35      0.37        99
+          6       0.00      0.00      0.00         2
+          7       0.38      0.16      0.22       101
+          8       0.72      0.62      0.66        91
+          9       0.68      0.76      0.72       100
+
+avg / total       0.56      0.57      0.55       745
+
+
+ 15/745 [..............................] - ETA: 6sC:\app\anaconda\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+745/745 [==============================] - 6s 8ms/step
+
+acc: 56.91%
+
+
+
+
+
+
+
+
+
+VERSION=15
+# using model 6 and modifying it
+# increasing the training size to 80% validation 10% and test size: 10%
+#Made ropout 0.5
+
+
+
+VALIDATION_FOLD=1
+TRAIN_FOLD = [3,4,5,6,7,8,9,10]
+TESTING_FOLD = [2] 
+
+
+Epoch 15/18
+5978/5978 [==============================] - 1244s 208ms/step - loss: 1.0851 - acc: 0.6664 - val_loss: 1.1898 - val_acc: 0.5722
+Epoch 16/18
+5978/5978 [==============================] - 261s 44ms/step - loss: 1.0787 - acc: 0.6678 - val_loss: 1.1042 - val_acc: 0.6199
+Epoch 17/18
+5978/5978 [==============================] - 270s 45ms/step - loss: 1.0404 - acc: 0.6793 - val_loss: 1.2022 - val_acc: 0.5921
+Epoch 18/18
+5978/5978 [==============================] - 250s 42ms/step - loss: 1.0170 - acc: 0.6889 - val_loss: 1.1465 - val_acc: 0.5934
+Time elapsed:  34685.78776693344
+End of CNN Model Fitting (Elapsed time) 09:38:05
+Model Saved! as model_delta_mod3_15validate_1128.h5
+
+             precision    recall  f1-score   support
+
+          0       0.67      0.53      0.59        99
+          1       0.00      0.00      0.00        18
+          2       0.51      0.90      0.65        99
+          3       0.78      0.88      0.82        64
+          4       0.88      0.72      0.79        72
+          5       0.38      0.72      0.50        99
+          6       0.00      0.00      0.00         2
+          7       0.65      0.13      0.21       101
+          8       0.87      0.53      0.66        91
+          9       0.69      0.69      0.69       100
+
+avg / total       0.65      0.60      0.58       745
+
+[0.5252525252525253, 0.0, 0.89898989898989901, 0.875, 0.72222222222222221, 0.71717171717171713, 0.0, 0.12871287128712872, 0.52747252747252749, 0.68999999999999995]
+745/745 [==============================] - 9s 12ms/step
+
+acc: 60.40%
+
+
+
+
+
+
+
+
+
+
+
+VERSION=13
+# using model 6 and modifying it
+# increasing the training size to 80% validation 10% and test size: 10%
+#Made ropout 0.5
+
+
+VALIDATION_FOLD=2
+TRAIN_FOLD = [1,4,5,6,7,8,9,10]
+TESTING_FOLD = [3] 
+
+
+Epoch 17/20
+5918/5918 [==============================] - 167s 28ms/step - loss: 0.5840 - acc: 0.8694 - val_loss: 1.8276 - val_acc: 0.5732
+Epoch 18/20
+5918/5918 [==============================] - 161s 27ms/step - loss: 0.5485 - acc: 0.8875 - val_loss: 1.8212 - val_acc: 0.5772
+Epoch 19/20
+5918/5918 [==============================] - 174s 29ms/step - loss: 0.5037 - acc: 0.9025 - val_loss: 1.9650 - val_acc: 0.5960
+Epoch 20/20
+5918/5918 [==============================] - 164s 28ms/step - loss: 0.5002 - acc: 0.9033 - val_loss: 2.2968 - val_acc: 0.5758
+Time elapsed:  3459.8554697036743
+End of CNN Model Fitting (Elapsed time) 00:57:39
+Model Saved! as model13_13validate_2.h5
+
+             precision    recall  f1-score   support
+
+          0       0.28      0.50      0.36       100
+          1       0.81      0.96      0.88        23
+          2       0.69      0.62      0.65        99
+          3       0.83      0.74      0.78        73
+          4       0.45      0.72      0.56        90
+          5       0.54      0.44      0.48       103
+          7       0.67      0.11      0.19       109
+          8       0.78      0.43      0.56       118
+          9       0.53      0.78      0.63       100
+
+avg / total       0.60      0.54      0.52       815
+
+
+
+
+VERSION=13
+# using model 6 and modifying it
+# increasing the training size to 80% validation 10% and test size: 10%
+#Made ropout 0.5
+
+
+VALIDATION_FOLD=4
+TRAIN_FOLD = [1,2,3,6,7,8,9,10]
+TESTING_FOLD = [5] 
+
+Epoch 17/20
+5863/5863 [==============================] - 159s 27ms/step - loss: 0.7462 - acc: 0.8039 - val_loss: 1.4854 - val_acc: 0.5683
+Epoch 18/20
+5863/5863 [==============================] - 161s 28ms/step - loss: 0.6939 - acc: 0.8211 - val_loss: 1.4737 - val_acc: 0.5599
+Epoch 19/20
+5863/5863 [==============================] - 159s 27ms/step - loss: 0.6477 - acc: 0.8431 - val_loss: 1.5168 - val_acc: 0.5466
+Epoch 20/20
+5863/5863 [==============================] - 159s 27ms/step - loss: 0.6178 - acc: 0.8521 - val_loss: 1.5613 - val_acc: 0.5562
+Time elapsed:  6241.8451108932495
+End of CNN Model Fitting (Elapsed time) 01:44:01
+Model Saved! as model13_13validate_4.h5
+
+             precision    recall  f1-score   support
+
+          0       0.64      0.69      0.66        99
+          1       1.00      0.07      0.12        76
+          2       0.64      0.61      0.62        97
+          3       0.63      0.61      0.62        71
+          4       0.64      0.78      0.70        67
+          5       0.51      0.46      0.48       101
+          6       0.00      0.00      0.00         1
+          7       0.72      0.89      0.79       108
+          8       0.81      0.44      0.57        68
+          9       0.47      0.82      0.60       100
+
+avg / total       0.66      0.61      0.58       788
+
+[0.68686868686868685, 0.065789473684210523, 0.60824742268041232, 0.60563380281690138, 0.77611940298507465, 0.45544554455445546, 0.0, 0.88888888888888884, 0.44117647058823528, 0.81999999999999995]
+788/788 [==============================] - 6s 8ms/step
+
+acc: 61.04%
+
+
+VERSION=13
+# using model 6 and modifying it
+# increasing the training size to 80% validation 10% and test size: 10%
+#Made ropout 0.5
+VALIDATION_FOLD=5
+TRAIN_FOLD = [1,2,3,4,7,8,9,10]
+TESTING_FOLD = [6] 
+
+
+VERSION=13
+# using model 6 and modifying it
+# increasing the training size to 80% validation 10% and test size: 10%
+#Made ropout 0.5
+
+
+VALIDATION_FOLD=5
+TRAIN_FOLD = [1,2,3,4,7,8,9,10]
+TESTING_FOLD = [6] 
+
+Epoch 16/20
+5984/5984 [==============================] - 166s 28ms/step - loss: 0.7487 - acc: 0.8013 - val_loss: 1.3124 - val_acc: 0.6028
+Epoch 17/20
+5984/5984 [==============================] - 237s 40ms/step - loss: 0.6944 - acc: 0.8257 - val_loss: 1.3355 - val_acc: 0.6028
+Epoch 18/20
+5984/5984 [==============================] - 238s 40ms/step - loss: 0.6583 - acc: 0.8366 - val_loss: 1.4085 - val_acc: 0.5711
+Epoch 19/20
+5984/5984 [==============================] - 238s 40ms/step - loss: 0.6252 - acc: 0.8521 - val_loss: 1.2963 - val_acc: 0.6206
+Epoch 20/20
+5984/5984 [==============================] - 256s 43ms/step - loss: 0.5982 - acc: 0.8613 - val_loss: 1.3744 - val_acc: 0.6117
+Time elapsed:  3633.7999930381775
+End of CNN Model Fitting (Elapsed time) 01:00:33
+Completed Validate: 5 Test: 6
+Model Saved! as model13_13validate_5.h5
+
+
+             precision    recall  f1-score   support
+
+          0       0.37      0.41      0.39       100
+          1       0.00      0.00      0.00        10
+          2       0.70      0.53      0.60        98
+          3       0.78      0.69      0.73        67
+          4       0.55      0.67      0.61        83
+          5       0.42      0.49      0.45       107
+          7       0.39      0.32      0.35        68
+          8       0.67      0.47      0.55        73
+          9       0.60      0.76      0.67       100
+
+avg / total       0.54      0.54      0.53       706
+706/706 [==============================] - 6s 8ms/step
+
+acc: 53.68%
+
+
